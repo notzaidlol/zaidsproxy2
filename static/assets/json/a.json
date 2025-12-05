@@ -7,7 +7,7 @@
   },
   {
     "name": "ZaidGPT",
-    "image": "",
+    "image": "/assets/media/icons/gpt.jpg",
     "link": "https://zaidgpt.vercel.app",
     "categories": ["all"]
   },
