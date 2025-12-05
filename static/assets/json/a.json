@@ -6,9 +6,9 @@
     "custom": "true"
   },
   {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
+    "name": "ZaidGPT",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg",
+    "link": "https://zaidgpt.vercel.app",
     "categories": ["all"]
   },
   {
